@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "483334222500",
+    "firebase_url": "https://yoloapp12.firebaseio.com",
+    "project_id": "yoloapp12",
+    "storage_bucket": "yoloapp12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483334222500:android:fb077a343a1eca1367ec31",
+        "android_client_info": {
+          "package_name": "in.ac.bitspilani.yolo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "483334222500-u6i1ako7bfkhe4al9m9gqt09avgk0kqo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAWAkx219pKtqfYXmnbOTD9zHiUUROqZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "483334222500-u6i1ako7bfkhe4al9m9gqt09avgk0kqo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
